@@ -11,7 +11,7 @@ export default function HookCheckBox({
 }) {
   //   const { t } = useTranslation(pageName);
   return (
-    <div className="mb-18">
+    <div className="mb-19">
       <Controller
         name={name}
         control={control}
